@@ -4,10 +4,6 @@
 
 ## 1. La Foule - Edith Piaf
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=Fgn8gZHJZzA
-" target="_blank"><img src="http://img.youtube.com/vi/Fgn8gZHJZzA/0.jpg" 
-alt="video" border="10" /></a>
-
 <div class="video-container-16by9"><iframe width="560" height="315" src="https://www.youtube.com/embed/Fgn8gZHJZzA"></iframe></div>
 
 ## 2. Mon truc en plumes (interprété par Lady Gaga) - Zizi Jeanmaire
@@ -48,87 +44,87 @@ alt="video" border="10" /></a>
 
 ## 11. Jeux d'eau (interpété par Alexandre Kantorow) - Maurice Ravel
 
-[![Video](http://img.youtube.com/vi/OC4wzpdhL2w/0.jpg)](http://www.youtube.com/watch?v=OC4wzpdhL2w)
+<div class="video-container-16by9"><iframe width="560" height="315" src="https://www.youtube.com/embed/OC4wzpdhL2w"></iframe></div>
 
 ## 12. La Marseillaise, interprétée par Axelle Saint-Cirel
 
-[![Video](http://img.youtube.com/vi/nZgnT-uVbW4/0.jpg)](http://www.youtube.com/watch?v=nZgnT-uVbW4)
+<div class="video-container-16by9"><iframe width="560" height="315" src="https://www.youtube.com/embed/nZgnT-uVbW4"></iframe></div>
 
 ## 13. Viens Hymen, de l'opéra Les Indes Galantes, interprété par Jakub Józef Orliński - Jean-Philippe Rameau
 
-[![Video](http://img.youtube.com/vi/heVskiks3LE/0.jpg)](http://www.youtube.com/watch?v=heVskiks3LE)
+<div class="video-container-16by9"><iframe width="560" height="315" src="https://www.youtube.com/embed/heVskiks3LE"></iframe></div>
 
 ## 14. King - Rim'K
 
-[![Video](http://img.youtube.com/vi/jwpffLgl15Y/0.jpg)](http://www.youtube.com/watch?v=jwpffLgl15Y)
+<div class="video-container-16by9"><iframe width="560" height="315" src="https://www.youtube.com/embed/jwpffLgl15Y"></iframe></div>
 
 ## 15. Ça balance pas mal à Paris - Michel Berger et France Gall
 
-[![Video](http://img.youtube.com/vi/WQqjcmVbYGI/0.jpg)](http://www.youtube.com/watch?v=WQqjcmVbYGI)
+<div class="video-container-16by9"><iframe width="560" height="315" src="https://www.youtube.com/embed/WQqjcmVbYGI"></iframe></div>
 
 ## 16. Andy - Rita Mitsouko
 
-[![Video](http://img.youtube.com/vi/KfWWJovEuQs/0.jpg)](http://www.youtube.com/watch?v=KfWWJovEuQs)
+<div class="video-container-16by9"><iframe width="560" height="315" src="https://www.youtube.com/embed/KfWWJovEuQs"></iframe></div>
 
 ## 17. DJ - Diam's
 
-[![Video](http://img.youtube.com/vi/C--LUzwwoSQ/0.jpg)](http://www.youtube.com/watch?v=C--LUzwwoSQ)
+<div class="video-container-16by9"><iframe width="560" height="315" src="https://www.youtube.com/embed/C--LUzwwoSQ"></iframe></div>
 
 ## 18. Histoire d'un soir (Bye bye les galères) - Bibi Flash
 
-[![Video](http://img.youtube.com/vi/CtIeONxHfjQ/0.jpg)](http://www.youtube.com/watch?v=CtIeONxHfjQ)
+<div class="video-container-16by9"><iframe width="560" height="315" src="https://www.youtube.com/embed/CtIeONxHfjQ"></iframe></div>
 
 ## 19. Spacer - Sheila
 
-[![Video](http://img.youtube.com/vi/xeRfywfkd8o/0.jpg)](http://www.youtube.com/watch?v=xeRfywfkd8o)
+<div class="video-container-16by9"><iframe width="560" height="315" src="https://www.youtube.com/embed/xeRfywfkd8o"></iframe></div>
 
 ## 20. Lady (Hear me tonight) - Modjo
 
-[![Video](http://img.youtube.com/vi/MzFYzXKWwik/0.jpg)](http://www.youtube.com/watch?v=MzFYzXKWwik)
+<div class="video-container-16by9"><iframe width="560" height="315" src="https://www.youtube.com/embed/MzFYzXKWwik"></iframe></div>
 
 ## 21. Intro - Alan Braxe & Fred Falke
 
-[![Video](http://img.youtube.com/vi/0nS0accElcA/0.jpg)](http://www.youtube.com/watch?v=0nS0accElcA)
+<div class="video-container-16by9"><iframe width="560" height="315" src="https://www.youtube.com/embed/0nS0accElcA"></iframe></div>
 
 ## 22. Love Don't Let Me Go - David Guetta
 
-[![Video](http://img.youtube.com/vi/_WA9NXXAntc/0.jpg)](http://www.youtube.com/watch?v=_WA9NXXAntc)
+<div class="video-container-16by9"><iframe width="560" height="315" src="https://www.youtube.com/embed/_WA9NXXAntc"></iframe></div>
 
 ## 23. L'Aziza - Daniel Balavoine
 
-[![Video](http://img.youtube.com/vi/lHjJlSq3BhA/0.jpg)](http://www.youtube.com/watch?v=lHjJlSq3BhA)
+<div class="video-container-16by9"><iframe width="560" height="315" src="https://www.youtube.com/embed/lHjJlSq3BhA"></iframe></div>
 
 ## 24. Chanson sur ma drôle de vie - Véronique Sanson
 
-[![Video](http://img.youtube.com/vi/NAogfwwqwGY/0.jpg)](http://www.youtube.com/watch?v=NAogfwwqwGY)
+<div class="video-container-16by9"><iframe width="560" height="315" src="https://www.youtube.com/embed/NAogfwwqwGY"></iframe></div>
 
 ## 25. D.I.S.C.O - Ottawan
 
-[![Video](http://img.youtube.com/vi/jN290u5xYGs/0.jpg)](http://www.youtube.com/watch?v=jN290u5xYGs)
+<div class="video-container-16by9"><iframe width="560" height="315" src="https://www.youtube.com/embed/jN290u5xYGs"></iframe></div>
 
 ## 26. Besoin d'amour - France Gall
 
-[![Video](http://img.youtube.com/vi/b6U2K3LfNfg/0.jpg)](http://www.youtube.com/watch?v=b6U2K3LfNfg)
+<div class="video-container-16by9"><iframe width="560" height="315" src="https://www.youtube.com/embed/6U2K3LfNfg"></iframe></div>
 
 ## 27. Music Sounds Better With You - Stardust
 
-[![Video](http://img.youtube.com/vi/FQlAEiCb8m0/0.jpg)](http://www.youtube.com/watch?v=FQlAEiCb8m0)
+<div class="video-container-16by9"><iframe width="560" height="315" src="https://www.youtube.com/embed/FQlAEiCb8m0"></iframe></div>
 
 ## 28. Kitsuné : Kass Limon - Jupiter & Kassav
 
-[![Video](http://img.youtube.com/vi/GJLzq6zCouA/0.jpg)](http://www.youtube.com/watch?v=GJLzq6zCouA)
+<div class="video-container-16by9"><iframe width="560" height="315" src="https://www.youtube.com/embed/GJLzq6zCouA"></iframe></div>
 
 ## 29. Alexandrie Alexandra - Claude François
 
-[![Video](http://img.youtube.com/vi/ZRaOzXS1slI/0.jpg)](http://www.youtube.com/watch?v=ZRaOzXS1slI)
+<div class="video-container-16by9"><iframe width="560" height="315" src="https://www.youtube.com/embed/ZRaOzXS1slI"></iframe></div>
 
 ## 30. D.A.N.C.E - Justice
 
-[![Video](http://img.youtube.com/vi/tCnBrrnOefs/0.jpg)](http://www.youtube.com/watch?v=tCnBrrnOefs)
+<div class="video-container-16by9"><iframe width="560" height="315" src="https://www.youtube.com/embed/tCnBrrnOefs"></iframe></div>
 
 ## 31. Je danse le Mia - IAM
 
-[![Video](http://img.youtube.com/vi/wf4YT-vsq_4/0.jpg)](http://www.youtube.com/watch?v=wf4YT-vsq_4)
+<div class="video-container-16by9"><iframe width="560" height="315" src="https://www.youtube.com/embed/wf4YT-vsq_4"></iframe></div>
 
 ## 32. Tombé pour la France - Etienne Daho
 
