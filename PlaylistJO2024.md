@@ -1,4 +1,7 @@
-<base target="_blank">
+---
+extra_javascript:
+    https://cdn.jsdelivr.net/gh/eddymens/markdown-external-link-script@v2.0.0/main.min.js
+---
 
 # La playlist de la cérémonie d'ouverture des jeux Olympiques de Paris 2024
 
