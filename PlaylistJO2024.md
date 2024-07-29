@@ -4,6 +4,8 @@
 
 ## 1. La Foule - Edith Piaf
 
+<div class="video-container-16by9"><iframe width="560" height="315" src="https://www.youtube.com/embed/Fgn8gZHJZzA"></iframe></div>
+
 [![Video](http://img.youtube.com/vi/Fgn8gZHJZzA/0.jpg)](http://www.youtube.com/watch?v=Fgn8gZHJZzA)
 
 ## 2. Mon truc en plumes (interprété par Lady Gaga) - Zizi Jeanmaire
