@@ -128,63 +128,62 @@
 
 ## 32. Tombé pour la France - Etienne Daho
 
-[![Video](http://img.youtube.com/vi/6_45LRuhqQQ/0.jpg)](http://www.youtube.com/watch?v=6_45LRuhqQQ)
+<div class="video-container-16by9"><iframe width="560" height="315" src="https://www.youtube.com/embed/6_45LRuhqQQ"></iframe></div>
 
 ## 33. Voyage, voyage - Desireless
 
-[![Video](http://img.youtube.com/vi/NlgmH5q9uNk/0.jpg)](http://www.youtube.com/watch?v=NlgmH5q9uNk)
+<div class="video-container-16by9"><iframe width="560" height="315" src="https://www.youtube.com/embed/NlgmH5q9uNk"></iframe></div>
 
 ## 34. L'amour à la plage - Niagara
 
-[![Video](http://img.youtube.com/vi/WkPV51HtLfw/0.jpg)](http://www.youtube.com/watch?v=WkPV51HtLfw)
+<div class="video-container-16by9"><iframe width="560" height="315" src="https://www.youtube.com/embed/WkPV51HtLfw"></iframe></div>
 
 ## 35. Ça plane pour moi - Plastic Bertrand
 
-[![Video](http://img.youtube.com/vi/8soQkubMk1g/0.jpg)](http://www.youtube.com/watch?v=8soQkubMk1g)
+<div class="video-container-16by9"><iframe width="560" height="315" src="https://www.youtube.com/embed/8soQkubMk1g"></iframe></div>
 
 ## 36. Signatune (Thomas Bangalter Edit) - DJ Mehdi
 
-[![Video](http://img.youtube.com/vi/hbhXQTFRGj4/0.jpg)](http://www.youtube.com/watch?v=hbhXQTFRGj4)
+<div class="video-container-16by9"><iframe width="560" height="315" src="https://www.youtube.com/embed/hbhXQTFRGj4"></iframe></div>
 
 ## 37. Que je t'aime - Johnny Hallyday
 
-[![Video](http://img.youtube.com/vi/V_o05vQEpQE/0.jpg)](http://www.youtube.com/watch?v=V_o05vQEpQE)
+<div class="video-container-16by9"><iframe width="560" height="315" src="https://www.youtube.com/embed/V_o05vQEpQE"></iframe></div>
 
 ## 38. Lettre à France - Michel Polnareff
 
-[![Video](http://img.youtube.com/vi/T_3ruPIMyl0/0.jpg)](http://www.youtube.com/watch?v=T_3ruPIMyl0)
+<div class="video-container-16by9"><iframe width="560" height="315" src="https://www.youtube.com/embed/T_3ruPIMyl0"></iframe></div>
 
 ## 39. The Final Countdown - Europe
 
-[![Video](http://img.youtube.com/vi/9jK-NcRmVcw/0.jpg)](http://www.youtube.com/watch?v=9jK-NcRmVcw)
+<div class="video-container-16by9"><iframe width="560" height="315" src="https://www.youtube.com/embed/9jK-NcRmVcw"></iframe></div>
 
 ## 40. Freed From Desire - Gala
 
-[![Video](http://img.youtube.com/vi/p3l7fgvrEKM/0.jpg)](http://www.youtube.com/watch?v=p3l7fgvrEKM)
+<div class="video-container-16by9"><iframe width="560" height="315" src="https://www.youtube.com/embed/p3l7fgvrEKM"></iframe></div>
 
 ## 41. Be My Lover - La Bouche
 
-[![Video](http://img.youtube.com/vi/ViP87WipSm0/0.jpg)](http://www.youtube.com/watch?v=ViP87WipSm0)
+<div class="video-container-16by9"><iframe width="560" height="315" src="https://www.youtube.com/embed/ViP87WipSm0"></iframe></div>
 
 ## 43. I Had a Dream - Nicky Doll
 
-[![Video](http://img.youtube.com/vi/9d9ZhbXaOQk/0.jpg)](http://www.youtube.com/watch?v=9d9ZhbXaOQk)
+<div class="video-container-16by9"><iframe width="560" height="315" src="https://www.youtube.com/embed/9d9ZhbXaOQk"></iframe></div>
 
 ## 44. Sandstorm - Darude
 
-[![Video](http://img.youtube.com/vi/y6120QOlsfU/0.jpg)](http://www.youtube.com/watch?v=y6120QOlsfU)
+<div class="video-container-16by9"><iframe width="560" height="315" src="https://www.youtube.com/embed/y6120QOlsfU"></iframe></div>
 
 ## 45. Désenchantée - Mylène Farmer
 
-[![Video](http://img.youtube.com/vi/vkiyW0vqat8/0.jpg)](http://www.youtube.com/watch?v=vkiyW0vqat8)
+<div class="video-container-16by9"><iframe width="560" height="315" src="https://www.youtube.com/embed/vkiyW0vqat8"></iframe></div>
 
 ## 46. Louxor J'adore - Katerine
-
-[![Video](http://img.youtube.com/vi/nLN8pvR8hDg/0.jpg)](http://www.youtube.com/watch?v=nLN8pvR8hDg)
+<div class="video-container-16by9"><iframe width="560" height="315" src="https://www.youtube.com/embed/LN8pvR8hDg"></iframe></div>
 
 ## 47. Nu - Philippe Katerine
 
-[![Video](http://img.youtube.com/vi/N-Ro03zmgJs/0.jpg)](http://www.youtube.com/watch?v=N-Ro03zmgJs)
+<div class="video-container-16by9"><iframe width="560" height="315" src="https://www.youtube.com/embed/N-Ro03zmgJs"></iframe></div>
 
 ## 48. Imagine (interprété par Juliette Armanet) - John Lennon
 
