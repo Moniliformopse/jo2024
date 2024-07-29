@@ -1,6 +1,6 @@
 # La playlist de la cérémonie d'ouverture des jeux Olympiques de Paris 2024
 
-**Vendredi 26 juillet 2024 sur la Seine** - La liste des 51 chansons entonnées ou diffusées durant la cérémonie d'ouverture des Jeux Olympiques de Paris.
+**Vendredi 26 juillet 2024 sur la Seine** - La liste des 50 chansons entonnées ou diffusées durant la cérémonie d'ouverture des Jeux Olympiques de Paris.
 
 ## 1. La Foule - Edith Piaf
 
@@ -166,40 +166,41 @@
 
 <div class="video-container-16by9"><iframe width="560" height="315" src="https://www.youtube.com/embed/ViP87WipSm0"></iframe></div>
 
-## 43. I Had a Dream - Nicky Doll
+## 42. I Had a Dream - Nicky Doll
 
 <div class="video-container-16by9"><iframe width="560" height="315" src="https://www.youtube.com/embed/9d9ZhbXaOQk"></iframe></div>
 
-## 44. Sandstorm - Darude
+## 43. Sandstorm - Darude
 
 <div class="video-container-16by9"><iframe width="560" height="315" src="https://www.youtube.com/embed/y6120QOlsfU"></iframe></div>
 
-## 45. Désenchantée - Mylène Farmer
+## 44. Désenchantée - Mylène Farmer
 
 <div class="video-container-16by9"><iframe width="560" height="315" src="https://www.youtube.com/embed/vkiyW0vqat8"></iframe></div>
 
-## 46. Louxor J'adore - Katerine
-<div class="video-container-16by9"><iframe width="560" height="315" src="https://www.youtube.com/embed/LN8pvR8hDg"></iframe></div>
+## 45. Louxor J'adore - Katerine
 
-## 47. Nu - Philippe Katerine
+<div class="video-container-16by9"><iframe width="560" height="315" src="https://www.youtube.com/embed/nLN8pvR8hDg"></iframe></div>
+
+## 46. Nu - Philippe Katerine
 
 <div class="video-container-16by9"><iframe width="560" height="315" src="https://www.youtube.com/embed/N-Ro03zmgJs"></iframe></div>
 
-## 48. Imagine (interprété par Juliette Armanet) - John Lennon
+## 47. Imagine (interprété par Juliette Armanet) - John Lennon
 
-[![Video](http://img.youtube.com/vi/3yAkbBOZ3wg/0.jpg)](http://www.youtube.com/watch?v=3yAkbBOZ3wg)
+<div class="video-container-16by9"><iframe width="560" height="315" src="https://www.youtube.com/embed/3yAkbBOZ3wg"></iframe></div>
 
-## 49. Parade - Victor Le Masne
+## 48. Parade - Victor Le Masne
 
-[![Video](http://img.youtube.com/vi/KLeKvUryPc8/0.jpg)](http://www.youtube.com/watch?v=KLeKvUryPc8)
+<div class="video-container-16by9"><iframe width="560" height="315" src="https://www.youtube.com/embed/KLeKvUryPc8"></iframe></div>
 
-## 50. Supernature - Cerronne
+## 49. Supernature - Cerronne
 
-[![Video](http://img.youtube.com/vi/cJ5V3OZdIZM/0.jpg)](http://www.youtube.com/watch?v=cJ5V3OZdIZM)
+<div class="video-container-16by9"><iframe width="560" height="315" src="https://www.youtube.com/embed/cJ5V3OZdIZM"></iframe></div>
 
-## 51. L'hymne à l'amour (interprété par Céline Dion) - Céline Dion
+## 50. L'hymne à l'amour (interprété par Céline Dion) - Céline Dion
 
-[![Video](http://img.youtube.com/vi/-MeRwQwYd_c/0.jpg)](http://www.youtube.com/watch?v=-MeRwQwYd_c)
+<div class="video-container-16by9"><iframe width="560" height="315" src="https://www.youtube.com/embed/-MeRwQwYd_c"></iframe></div>
 
 <hr>
 
