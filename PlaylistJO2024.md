@@ -202,7 +202,5 @@
 
 <div class="video-container-16by9"><iframe width="560" height="315" src="https://www.youtube.com/embed/-MeRwQwYd_c"></iframe></div>
 
-<hr>
-
 > <a href="https://olympics.com/fr/paris-2024" target="_target" title="Vers le site officiel">Jeux Olympiques de Paris 2024</a><br>
 <small>Lien externe, s'ouvre dans une nouvelle fenêtre.</small>
