@@ -6,43 +6,41 @@
 
 <div class="video-container-16by9"><iframe width="560" height="315" src="https://www.youtube.com/embed/Fgn8gZHJZzA"></iframe></div>
 
-[![Video](http://img.youtube.com/vi/Fgn8gZHJZzA/0.jpg)](http://www.youtube.com/watch?v=Fgn8gZHJZzA)
-
 ## 2. Mon truc en plumes (interprété par Lady Gaga) - Zizi Jeanmaire
 
-[![Video](http://img.youtube.com/vi/tbJlZZ87jFY/0.jpg)](http://www.youtube.com/watch?v=tbJlZZ87jFY)
+<div class="video-container-16by9"><iframe width="560" height="315" src="https://www.youtube.com/embed/tbJlZZ87jFY"></iframe></div>
 
 ## 3. Magnolias For Ever - Claude François
 
-[![Video](http://img.youtube.com/vi/ghD8zu2oe9w/0.jpg)](http://www.youtube.com/watch?v=ghD8zu2oe9w)
+<div class="video-container-16by9"><iframe width="560" height="315" src="https://www.youtube.com/embed/ghD8zu2oe9w"></iframe></div>
 
 ## 4. Marcia Baïla - Rita Mitsouko
 
-[![Video](http://img.youtube.com/vi/neHsQMaGzaY/0.jpg)](http://www.youtube.com/watch?v=neHsQMaGzaY)
+<div class="video-container-16by9"><iframe width="560" height="315" src="https://www.youtube.com/embed/neHsQMaGzaY"></iframe></div>
 
 ## 5. Le Galop infernal d'Orphée aux Enfers - Offenbach
 
-[![Video](http://img.youtube.com/vi/rfoakeJeR1Q/0.jpg)](http://www.youtube.com/watch?v=rfoakeJeR1Q)
+<div class="video-container-16by9"><iframe width="560" height="315" src="https://www.youtube.com/embed/rfoakeJeR1Q"></iframe></div>
 
 ## 6. À la volonté du peuple - La comédie musicale Les Misérables
 
-[![Video](http://img.youtube.com/vi/bsnuWOhcVM4/0.jpg)](http://www.youtube.com/watch?v=bsnuWOhcVM4)
+<div class="video-container-16by9"><iframe width="560" height="315" src="https://www.youtube.com/embed/bsnuWOhcVM4"></iframe></div>
 
 ## 7. Ah! ça ira - Le groupe de métal Gojira avec Marina Viotti
 
-[![Video](http://img.youtube.com/vi/a6fob05bobQ/0.jpg)](http://www.youtube.com/watch?v=a6fob05bobQ)
+<div class="video-container-16by9"><iframe width="560" height="315" src="https://www.youtube.com/embed/a6fob05bobQ"></iframe></div>
 
 ## 8. L’amour est un oiseau rebelle, de l'opéra Carmen, de Georges Bizet
 
-[![Video](http://img.youtube.com/vi/K2snTkaD64U/0.jpg)](http://www.youtube.com/watch?v=K2snTkaD64U)
+<div class="video-container-16by9"><iframe width="560" height="315" src="https://www.youtube.com/embed/K2snTkaD64U"></iframe></div>
 
 ## 9. I love You So - Cassius
 
-[![Video](http://img.youtube.com/vi/BLfah4FNrH0/0.jpg)](http://www.youtube.com/watch?v=BLfah4FNrH0)
+<div class="video-container-16by9"><iframe width="560" height="315" src="https://www.youtube.com/embed/BLfah4FNrH0"></iframe></div>
 
 ## 10. For Me formidable d'Aznavour, Pookie et Djadja d'Aya Nakamura
 
-[![Video](http://img.youtube.com/vi/mwJXY1NEV6U/0.jpg)](http://www.youtube.com/watch?v=mwJXY1NEV6U)
+<div class="video-container-16by9"><iframe width="560" height="315" src="https://www.youtube.com/embed/mwJXY1NEV6U"></iframe></div>
 
 ## 11. Jeux d'eau (interpété par Alexandre Kantorow) - Maurice Ravel
 
